@@ -13,8 +13,8 @@ Hi 👋 My name is Prateek Sharma
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=prateeksharmai8&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=prateeksharmai8&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=prateeksharmai28&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=prateeksharmai28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
